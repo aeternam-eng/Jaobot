@@ -1,7 +1,7 @@
 const { prefix } = require('../config.json');
 
 module.exports = {
-    name: 'murtabot',
+    name: 'jaobot',
     description: 'Help',
     aliases: ['help', 'commands'],
     usage: '[command name]',
